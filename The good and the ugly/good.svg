@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{font-family:'DeeDee';}
+	.st2{font-size:34.8762px;}
+	.st3{fill:#7BBDFF;}
+	.st4{font-size:29.6753px;}
+	.st5{fill:none;stroke:#333333;}
+	.st6{font-family:'DeeDee-Bold';}
+	.st7{font-size:38px;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 355.4906 497.6315)" class="st0 st1 st2">базова вища</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 475.932 551.8649)" class="st0 st1 st2">вища</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 167.5267 606.0997)" class="st0 st1 st2">загальна середня освіта</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 274.9398 334.3341)" class="st0 st1 st2">незакінчена вища</text>
+</g>
+<rect x="601.6" y="471.9" class="st3" width="105.2" height="31.2"/>
+<rect x="601.6" y="526.1" class="st3" width="361.9" height="31.2"/>
+<rect x="601.6" y="580.3" class="st3" width="473" height="31.2"/>
+<rect x="601.6" y="308.6" class="st3" width="12.9" height="31.2"/>
+<text transform="matrix(1 0 0 1 714.2474 498.5211)" class="st1 st4">135 347 </text>
+<text transform="matrix(1 0 0 1 970.913 552.7555)" class="st1 st4">465 487</text>
+<text transform="matrix(1 0 0 1 1082.0165 606.9884)" class="st1 st4">608 396</text>
+<text transform="matrix(1 0 0 1 621.8812 335.2247)" class="st1 st4">16 540</text>
+<g>
+	<text transform="matrix(1 0 0 1 428.888 388.5665)" class="st0 st1 st2">середня</text>
+</g>
+<rect x="601.6" y="362.8" class="st3" width="45.8" height="31.2"/>
+<text transform="matrix(1 0 0 1 654.8324 389.4572)" class="st1 st4">58 923</text>
+<g>
+	<text transform="matrix(1 0 0 1 238.7318 442.8029)" class="st0 st1 st2">середня спеціальна</text>
+</g>
+<rect x="601.6" y="417" class="st3" width="101.9" height="31.2"/>
+<text transform="matrix(1 0 0 1 710.9008 443.6915)" class="st1 st4">131 042</text>
+<g id="grid-lines::vertical-grid-lines">
+	<line class="st5" x1="601.6" y1="303.4" x2="601.6" y2="618"/>
+</g>
+<text transform="matrix(1 0 0 1 228.4514 181.958)"><tspan x="0" y="0" class="st0 st6 st7">Співвідношення освіти всіх членів партій в Україні  </tspan><tspan x="157.8" y="45.6" class="st0 st6 st7">та їх середнього доходу (грн/рік) </tspan></text>
+</svg>
